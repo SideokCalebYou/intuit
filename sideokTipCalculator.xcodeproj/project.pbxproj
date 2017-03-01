@@ -14,6 +14,7 @@
 		8BB30C741E66E1110069EC9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BB30C721E66E1110069EC9D /* LaunchScreen.storyboard */; };
 		8BB30C7F1E66E1120069EC9D /* sideokTipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB30C7E1E66E1120069EC9D /* sideokTipCalculatorTests.swift */; };
 		8BB30C8A1E66E1120069EC9D /* sideokTipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB30C891E66E1120069EC9D /* sideokTipCalculatorUITests.swift */; };
+		8BB30C9E1E66E8450069EC9D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB30C9D1E66E8450069EC9D /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8BB30C851E66E1120069EC9D /* sideokTipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sideokTipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BB30C891E66E1120069EC9D /* sideokTipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sideokTipCalculatorUITests.swift; sourceTree = "<group>"; };
 		8BB30C8B1E66E1120069EC9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BB30C9D1E66E8450069EC9D /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8BB30C701E66E1110069EC9D /* Assets.xcassets */,
 				8BB30C721E66E1110069EC9D /* LaunchScreen.storyboard */,
 				8BB30C751E66E1110069EC9D /* Info.plist */,
+				8BB30C9D1E66E8450069EC9D /* SettingsViewController.swift */,
 			);
 			path = sideokTipCalculator;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				8BB30C6C1E66E1110069EC9D /* ViewController.swift in Sources */,
 				8BB30C6A1E66E1110069EC9D /* AppDelegate.swift in Sources */,
+				8BB30C9E1E66E8450069EC9D /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
